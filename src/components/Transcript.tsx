@@ -1,5 +1,3 @@
-import { Separator } from "./ui/separator";
-
 const transcript = [
   {
     time: "00:25 min",
